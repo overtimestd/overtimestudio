@@ -1,3 +1,4 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=overtimestd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Overtimestd!;Web+Developer+%26+Lecturer;PHP+%7C+CodeIgniter+%7C+Data+Science;Building+Decision+Support+Systems" alt="Typing SVG" />
